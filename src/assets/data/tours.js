@@ -13,7 +13,7 @@ const tours = [
     city: "London",
     distance: 300,
     address:"somewhere",
-    price: 99,
+    price: 3000,
     maxGroupSize: 10,
     desc: "this is the description",
     reviews: [
@@ -36,7 +36,7 @@ const tours = [
     city: "Indonesia",
     distance: 400,
     address:"somewhere",
-    price: 99,
+    price: 3999,
     maxGroupSize: 8,
     desc: "this is the description",
     reviews: [
@@ -55,7 +55,7 @@ const tours = [
     city: "Thailand",
     distance: 500,
     address:"somewhere",
-    price: 99,
+    price: 2999,
     maxGroupSize: 8,
     desc: "this is the description",
     reviews: [
@@ -74,7 +74,7 @@ const tours = [
     city: "Thailand",
     distance: 500,
     address:"somewhere",
-    price: 99,
+    price: 3499,
     maxGroupSize: 8,
     desc: "this is the description",
     reviews: [
@@ -93,7 +93,7 @@ const tours = [
     city: "Indonesia",
     distance: 500,
     address:"somewhere",
-    price: 99,
+    price: 6499,
     maxGroupSize: 8,
     desc: "this is the description",
     reviews: [
@@ -112,7 +112,7 @@ const tours = [
     city: "Japan",
     distance: 500,
     address:"somewhere",
-    price: 99,
+    price: 3499,
     maxGroupSize: 8,
     desc: "this is the description",
     reviews: [
@@ -131,7 +131,7 @@ const tours = [
     city: "France",
     distance: 500,
     address:"somewhere",
-    price: 99,
+    price: 3999,
     maxGroupSize: 8,
     desc: "this is the description",
     reviews: [],
@@ -144,7 +144,7 @@ const tours = [
     title: "Snowy Mountains, Thailand",
     city: "Thailand",
     distance: 500,
-    price: 99,
+    price: 9999,
     address:"somewhere",
     maxGroupSize: 8,
     desc: "this is the description",

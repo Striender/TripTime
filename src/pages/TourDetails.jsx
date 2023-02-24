@@ -41,7 +41,6 @@ const TourDetails = () => {
   const submitHandler =e =>{
     e.preventDefault();
     const reviewText = reviewMsgRef.current.value ;
-
  
     //later will our api
    };
@@ -84,7 +83,7 @@ const TourDetails = () => {
                       <i class="ri-map-pin-2-fill"></i>{city}
                     </span>
                     <span>
-                      <i class="ri-money-dollar-circle-line"></i> $ {price} / person
+                      <i class="ri-money-dollar-circle-line"></i> Rs {price} / person
                     </span>
                     <span>
                     <i class="ri-map-pin-time-line"></i>  {distance} k/m
@@ -135,12 +134,8 @@ const TourDetails = () => {
                         <div className="w-100">
                           <div className='d-flex align-items-center justify-content-between'>
                             <div>
-                              <h5>Neeraj</h5>
-                              <p>{new Date('16-02-2023').toLocaleDateString(
-                                "en-US",
-                                options
-                              )}
-                              </p>
+                              <h5>Nityam</h5>
+                              
                             </div>
                             <span className='d-flex align-items-center'>
                               5 <i class="ri-star-fill"></i>

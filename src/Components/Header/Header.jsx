@@ -18,10 +18,14 @@ const nav__links =[
   {
     path:'/tours',
     display:'Tours'
-  },
+  },/*
   {
     path:'/hotel',
     display:'Hotels'
+  },*/
+  {
+    path:'/guides',
+    display:'Guides'
   }
   
 ]
