@@ -15,7 +15,7 @@ import GuideDetails from '../pages/GuideDetails';
 const Routers = () => {
   return (
     <Routes>
-        <Route path='/' element={<Navigate to= '/Home'/>} />
+        <Route path='/TripTime' element={<Navigate to= '/Home'/>} />
         <Route path='/home' element={<Home/>} />
         <Route path='/tours' element={<Tours/>} />
         <Route path='/tours/:id' element={<TourDetails/>} />

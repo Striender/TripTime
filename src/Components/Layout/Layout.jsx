@@ -8,8 +8,7 @@ import Home from '../../pages/Home';
 const Layout = () => {
   return <>
     <Header/>
-    <Home/>
-    <Routers/>
+    <Routers/> 
     <Footer/>
   </>
 }
